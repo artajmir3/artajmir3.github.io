@@ -5,7 +5,7 @@ var addressPoints = [
     -123.113952
   ],
   [
-    "Transport-Based Alignment of 3D Density Maps of Biological Molecules from Cryo-EM<br />Summer School on Optimal Transport, Stochastic Analysis and Applications to Machine Learning; Daejeon, South Korea",
+    "Transport-Based Alignment of 3D Density Maps of Biological Molecules in Cryo-EM<br />Summer School on Optimal Transport, Stochastic Analysis and Applications to Machine Learning; Daejeon, South Korea",
     36.3497007,
     127.3849016
   ],
