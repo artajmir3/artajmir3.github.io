@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Aryan Tajmir Riahi"
 title_separator          : "-"
 name                     : &name "Aryan Tajmir Riahi"
-description              : &description "PhD student at the University of British Columbia"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Computer Science PhD (UBC) — machine learning, optimization, optimal transport, and algorithms for cryo-EM and scientific computing."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://artajmir3.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Aryan Tajmir Riahi"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student at the University of British Columbia, Vancouver, BC, Canada"
-  location         : "Vancouver"
+  bio              : "I am a computer scientist working on machine learning, optimization, and optimal transport. I received my PhD in Computer Science from the University of British Columbia in May 2026, where I developed optimal-transport algorithms and metrics for 3D point-cloud alignment, with applications to cryogenic electron microscopy (cryo-EM) density maps, under the supervision of Anne Condon and Khanh Dao Duc. My research extends optimal-transport matching from one-to-one correspondence to partial and multiple-to-multiple matching, and I built OTAlignment, an open-source ChimeraX plugin that automates cryo-EM map alignment for structural biology researchers. I am currently looking for software engineer and research scientist roles."
+  location         : "Vancouver, British Columbia, Canada"
   employer         : "University of British Columbia"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "artajmir3@gmail.com" 
 
   # Academic websites
   academia         : # URL
